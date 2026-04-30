@@ -1,0 +1,7 @@
+"metric","estimate","std.error","conf.low","conf.high"
+"Any lipid-lowering therapy","32.4%",0.00771385778892735,"30.9%","33.9%"
+"Statin use","30.7%",0.00799647246987354,"29.1%","32.2%"
+"Untreated among high-risk","67.6%",0.00771385778892735,"66.1%","69.1%"
+"No statin among high-risk","69.3%",0.00799647246987354,"67.8%","70.9%"
+"Residual non-HDL risk on treatment","12.3%",0.00477025604464955,"11.3%","13.2%"
+"Non-HDL >=130 mg/dL","60.9%",0.00821668389817782,"59.3%","62.5%"
